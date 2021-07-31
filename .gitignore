@@ -13,6 +13,6 @@
 *.out
 
 
-translatePost/config.ini
+config.ini
 # Dependency directories (remove the comment below to include it)
 # vendor/
